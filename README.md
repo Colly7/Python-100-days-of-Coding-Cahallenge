@@ -1,2 +1,2 @@
-# Python-100-days-of-Coding-Cahallenge
+# Python-100-days-of-Coding-Challenge
 Python programming
